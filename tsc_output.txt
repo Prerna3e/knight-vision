@@ -1,0 +1,3 @@
+﻿src/App.tsx(179,13): error TS7053: Element implicitly has an 'any' type because expression of type 'Square' can't be used to index type '{}'.
+  Property 'a8' does not exist on type '{}'.
+src/main.tsx(3,17): error TS5097: An import path can only end with a '.tsx' extension when 'allowImportingTsExtensions' is enabled.

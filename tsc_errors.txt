@@ -1,0 +1,19 @@
+﻿src/pages/Home.tsx(36,8): error TS17008: JSX element 'main' has no corresponding closing tag.
+src/pages/Home.tsx(91,50): error TS1127: Invalid character.
+src/pages/Home.tsx(97,43): error TS1127: Invalid character.
+src/pages/Home.tsx(97,212): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+src/pages/Home.tsx(97,215): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/pages/Home.tsx(110,19): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+src/pages/Home.tsx(110,21): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+src/pages/Home.tsx(137,19): error TS2657: JSX expressions must have one parent element.
+src/pages/Home.tsx(139,40): error TS1127: Invalid character.
+src/pages/Home.tsx(139,188): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+src/pages/Home.tsx(139,189): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/pages/Home.tsx(141,25): error TS17002: Expected corresponding JSX closing tag for 'div'.
+src/pages/Home.tsx(147,19): error TS1005: ')' expected.
+src/pages/Home.tsx(148,18): error TS1005: ':' expected.
+src/pages/Home.tsx(148,19): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+src/pages/Home.tsx(155,14): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+src/pages/Home.tsx(159,7): error TS1005: ')' expected.
+src/pages/Home.tsx(160,5): error TS1109: Expression expected.
+src/pages/Home.tsx(161,3): error TS1109: Expression expected.
